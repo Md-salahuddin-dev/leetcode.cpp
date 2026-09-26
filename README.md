@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Md-salahuddin-dev/leetcode.cpp/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Md-salahuddin-dev/leetcode.cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Md-salahuddin-dev/leetcode.cpp/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/Md-salahuddin-dev/leetcode.cpp/tree/master/0136-single-number) |
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Md-salahuddin-dev/leetcode.cpp/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Md-salahuddin-dev/leetcode.cpp/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Md-salahuddin-dev/leetcode.cpp/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
